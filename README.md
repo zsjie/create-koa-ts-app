@@ -2,6 +2,10 @@
 
 > A boilerplate to create koa app with typescript
 
+<p align='center'>
+  <img src='https://github.com/zsjie/create-koa-ts-app/blob/master/assets/create-koa-ts-app%20demo.gif?raw=true' width='600' alt=''>
+</p>
+
 ## Table of contents
 
 * [Requirements](#requirements)
