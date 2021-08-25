@@ -2,10 +2,10 @@
 
 > A boilerplate to create koa app with typescript
 
-
 ## Table of contents
 
 * [Requirements](#requirements)
+* [Installation](#Installation)
 * [Usage](#usage)
 * [Project structure](#project-structure)
 * [License](#license)
@@ -13,9 +13,29 @@
 ## Requirements
 
 * [Nodejs](https://nodejs.org/) 14 or later
-* Yarn
+* [Yarn](https://yarnpkg.com/)
+
+## Installation
+
+```bash
+yarn global add create-koa-ts-app
+```
 
 ## Usage
+
+### Installed Globally
+
+```bash
+create-koa-ts-app <project-name>
+```
+
+### yarn
+
+```bash
+yarn create koa-ts-app <project-name>
+```
+
+### npx
 
 ```bash
 npx create-koa-ts-app <project-name>
