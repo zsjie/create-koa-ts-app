@@ -1,6 +1,7 @@
 {
   "name": "create-koa-ts-app",
-  "version": "1.0.1",
+  "version": "1.0.5",
+  "description": "A boilerplate to create koa app with typescript",
   "main": "index.js",
   "type": "module",
   "bin": {
@@ -11,7 +12,7 @@
   },
   "files": [
     "lib/",
-    "utils",
+    "utils/",
     "create-app.js",
     "index.js"
   ],
