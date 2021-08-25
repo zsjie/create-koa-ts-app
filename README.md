@@ -1,5 +1,7 @@
 # Create Koa TS App
 
+[![npm version](https://img.shields.io/npm/v/create-koa-ts-app.svg)](https://www.npmjs.com/package/create-koa-ts-app) [![license](https://img.shields.io/github/license/zsjie/create-koa-ts-app.svg)](https://github.com/zsjie/create-koa-ts-app/blob/master/LICENSE)
+
 > A boilerplate to create koa app with typescript
 
 <p align='center'>
