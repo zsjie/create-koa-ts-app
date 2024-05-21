@@ -8,6 +8,13 @@
   <img src='https://github.com/zsjie/create-koa-ts-app/blob/master/assets/create-koa-ts-app%20demo.gif?raw=true' width='600' alt=''>
 </p>
 
+## Features
+
+- ✅ latest Koa version: 2.15.3
+- ✅ laster Typescript version: 5.4.5
+- ✅ use eslint flat config
+- ✅ auto-fixed and auto-formatting on save
+
 ## Table of contents
 
 * [Requirements](#requirements)
